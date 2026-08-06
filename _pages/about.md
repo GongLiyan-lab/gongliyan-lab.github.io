@@ -28,3 +28,30 @@ latest_posts:
 ## 研究兴趣及方向
 
 我们致力于利用干细胞与类器官技术构建高保真的人类疾病模型。以自建的快速血管类器官体系为核心，研究血管发育调控、肿瘤微环境中的血管异常及肿瘤‑血管互作机制，并发展肿瘤类器官和免疫细胞等多类型模型与血管系统的耦合体系，以模拟更复杂的病理过程。结合基因编辑、空间转录组和多尺度成像等手段，系统解析疾病相关的关键调控网络。在此基础上，研究组探索类器官模型在抗肿瘤药物评价、靶点验证、免疫治疗响应预测及血管异常疾病模拟等方面的应用潜力，构建兼具机制深度与转化价值的类器官平台。同时推动建立符合GMP要求的三维培养体系和标准化细胞库，为未来临床应用与产业化奠定基础。
+
+## 代表性工作
+(\* co‑first authors, # corresponding authors)
+
+1. Jiang, C., Cui, P., Gong, L#. Engineering functional human vasculature: iPSC‑derived vascular cells and organoids for disease modeling and translation. *Vascular Pharmacology*, 164C (2026), 107683.
+
+2. Gong, L., Melero‑Martin, J. M# . Protocol for generating human vascular organoids via orthogonal activation of ETV2 and NKX3.1. *STAR Protocols*, 2026; 7.
+
+3. Gong, L., Zhang, Y., Zhu, Y., Lee, U., Luo, A. C., Li, X., Wang, X., Chen, D., Pu, W. T., Lin, R., Ma, M., Cui, M., Chen, K., Wang, K.#, Melero‑Martin, J. M#. (2025). Rapid generation of functional vascular organoids via simultaneous transcription factor activation of endothelial and mural lineages. *Cell Stem Cell*, 32, 1‑18. Cover Story
+
+4. Gong, L., Wang K., Wang M., Hu R., Li H., Gao D. #, and Lin M#. (2021). CUL5‑ASB6 complex promotes p62/SQSTM1 ubiquitination and degradation to regulate cell proliferation and autophagy. *Front. Cell Dev. Biol.* 9:684885.
+
+5. Cui, B.\*, Gong, L.\*, Chen, M., Zhang, Y., Yuan, H., Qin, Jun, and Gao, D#. (2019). CUL5‑SOCS6 complex regulates mTORC2 function by targeting Sin1 for degradation. *Cell Discovery*.
+
+6. Zhao, G. \*, Gong, L. \*, Su, D.\*, Jin, Y., Guo, C., Yue, M., Yao, S., Qin, Z., Ye, Y., Tang, Y., Wu, Q., Zhang, J., Cui, B., Ding, Q., Huang, H., Hu, L., Chen, Y., Zhang, P., Hu, G., Chen, L., Wong, K.K., Gao, D. #, and Ji, H#. (2019). Cullin5 deficiency promotes small‑cell lung cancer metastasis by stabilizing integrin beta1. *J Clin Invest* 129, 972‑987.
+
+7. Li, X. \*, Kim, H. D. \*, Luo, A. C., Gong, L., Lee, C., Hong, X., Sudduth, C. L., Ad, M., An, Young., Park, M., Kim, D., Greene, A.K., Padwa, B.L., Hwang, N.S., Lin, R., Melero‑Martin, J. M#. Human bone‑derived endothelial cells mediate bone regeneration via distinct expression of KIT ligand. *Advanced Science*, 2025, e14194. https://doi.org/10.1002/advs.202414194
+
+8. Chen, D., Fan, X., Sun, N., Wang, K., Gong, L., Melero‑Martin, J. M., & Pu, W. T#. Pioneer factor ETV2 safeguards endothelial cell specification by recruiting the repressor REST to restrict alternative lineage commitment. *Nature Cardiovascular Research*. 2025 Jun;4(6):689‑709.
+
+9. Lee, U. \*, Zhang, Y. \*, Zhu, Y., Luo, A. C., Gong, L., Tremmel, D. M., Kim, Y., Villarreal, V. S., Wang, X., Lin, R.‑Z., Cui, M., Ma, M., Yuan, K., Wang, K. #, Chen, K. #, & Melero‑Martin, J. M#. (2024). Robust differentiation of human pluripotent stem cells into mural progenitor cells via transient activation of NKX3.1. *Nature Communications*, 15, 8392.
+
+10. Luo, A. C., Wang, J., Wang, K., Zhu, Y., Gong, L., Lee, U., ... & Melero‑Martin, J. M#. (2024). A streamlined method to generate endothelial cells from human pluripotent stem cells via transient doxycycline‑inducible ETV2 activation. *Angiogenesis*, 1‑17.
+
+11. Hu, H. \*, Zhu, W. \*, Qin, J., Chen, M., Gong, L., Li, L., Liu, X., Tao, Y., Yin, H., Zhou, H., Zhou, L., Ye, D., Ye, Q., and Gao, D#. (2017). Acetylation of PGK1 promotes liver cancer cell proliferation and tumorigenesis. *Hepatology (Baltimore, Md)* 65, 515‑528.
+
+12. Liu, X., Chen, M., Li, L., Gong, L., Zhou, H., and Gao, D#. (2017). Extracellular Signal‑regulated Kinases (ERKs) Phosphorylate Lin28a Protein to Modulate P19 Cell Proliferation and Differentiation. *The Journal of Biological Chemistry* 292, 3970‑3976.
