@@ -44,7 +44,7 @@ latest_posts:
 
 6. Zhao, G. \*, **Gong, L.** \*, Su, D.\*, Jin, Y., Guo, C., Yue, M., Yao, S., Qin, Z., Ye, Y., Tang, Y., Wu, Q., Zhang, J., Cui, B., Ding, Q., Huang, H., Hu, L., Chen, Y., Zhang, P., Hu, G., Chen, L., Wong, K.K., Gao, D. #, and Ji, H#. (2019). Cullin5 deficiency promotes small‑cell lung cancer metastasis by stabilizing integrin beta1. *J Clin Invest* 129, 972‑987.
 
-7. Li, X. \*, Kim, H. D. \*, Luo, A. C., **Gong, L.**, Lee, C., Hong, X., Sudduth, C. L., Ad, M., An, Young., Park, M., Kim, D., Greene, A.K., Padwa, B.L., Hwang, N.S., Lin, R., Melero‑Martin, J. M#. Human bone‑derived endothelial cells mediate bone regeneration via distinct expression of KIT ligand. *Advanced Science*, 2025, e14194. https://doi.org/10.1002/advs.202414194
+7. Li, X. \*, Kim, H. D. \*, Luo, A. C., **Gong, L.**, Lee, C., Hong, X., Sudduth, C. L., Ad, M., An, Young., Park, M., Kim, D., Greene, A.K., Padwa, B.L., Hwang, N.S., Lin, R., Melero‑Martin, J. M#. Human bone‑derived endothelial cells mediate bone regeneration via distinct expression of KIT ligand. *Advanced Science*, 2025, e14194. 
 
 8. Chen, D., Fan, X., Sun, N., Wang, K., **Gong, L.**, Melero‑Martin, J. M., & Pu, W. T#. Pioneer factor ETV2 safeguards endothelial cell specification by recruiting the repressor REST to restrict alternative lineage commitment. *Nature Cardiovascular Research*. 2025 Jun;4(6):689‑709.
 
