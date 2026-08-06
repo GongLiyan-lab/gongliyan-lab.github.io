@@ -1,65 +1,22 @@
 ---
-layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+title: Research
+nav_order: 2
+permalink: /research/
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+# Research
 
-{% else %}
+Our lab focuses on **stem cell and organoid development and application**.
+We use human iPSC‑derived organoid models to recapitulate human tissue development, disease mechanism and drug evaluation.
 
-<!-- Display projects without categories -->
+## 1. Human Vascular Organoids
+Generation and optimization of iPSC‑derived vascular organoids; study of vascular development regulation, endothelial‑mesenchymal interaction, vascular injury and repair, as well as aberrant vascular behaviors within tumor microenvironment and tumor‑vascular crosstalk.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+## 2. Bone / Bone‑marrow Organoid
+iPSC‑based bone‑marrow niche organoid construction; hematopoietic microenvironment and bone‑related disorders.
 
-  <!-- Generate cards for each project -->
+## 3. Multi‑Organoid Integration Systems
+Assembly of coupled multi‑organoid complexes, integrating vascular systems with tumor organoids and immune‑cell components to reconstruct complex pathological niches. Combining gene editing, spatial transcriptomics and multi‑scale imaging to dissect key regulatory networks underlying disease progression.
 
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+## 4. Technology Translation
+Establish organoid‑based drug screening platform for anti‑tumor drug assessment, target validation and immunotherapy response prediction; explore applications for vascular‑related disease modeling. We also pursue GMP‑compliant 3D culture systems and standardized cell repositories to support future clinical translation and industrial‑oriented development.
