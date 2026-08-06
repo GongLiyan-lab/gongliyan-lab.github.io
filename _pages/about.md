@@ -1,17 +1,11 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>大健康研究院 研究员</p>
+    <p>E‑mail: liyan.gong@ihm.ac.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +21,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## 个人简介
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+公丽岩，2014年毕业于吉林大学，获学士学位；2020年毕业于中国科学院分子细胞科学卓越创新中心（原生化与细胞所），获博士学位。2020年10月至2021年12月于同济大学医学院进行博士后训练，并于2022年1月至2025年9月于美国哈佛医学院/波士顿儿童医院（Harvard Medical School/ Boston Children’s Hospital）从事博士后研究。2025年11月回国加入合肥综合性国家科学中心大健康研究院担任研究员。主要研究方向聚焦于干细胞与类器官技术的开发和应用。以第一作者身份（含共同）在 *Cell Stem Cell*、*Cell Discovery*、*Journal of Clinical Investigation*、*Frontiers in Cell and Developmental Biology* 等期刊上发表多篇SCI研究论文。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## 研究兴趣及方向
+
+我们致力于利用干细胞与类器官技术构建高保真的人类疾病模型。以自建的快速血管类器官体系为核心，研究血管发育调控、肿瘤微环境中的血管异常及肿瘤‑血管互作机制，并发展肿瘤类器官和免疫细胞等多类型模型与血管系统的耦合体系，以模拟更复杂的病理过程。结合基因编辑、空间转录组和多尺度成像等手段，系统解析疾病相关的关键调控网络。在此基础上，研究组探索类器官模型在抗肿瘤药物评价、靶点验证、免疫治疗响应预测及血管异常疾病模拟等方面的应用潜力，构建兼具机制深度与转化价值的类器官平台。同时推动建立符合GMP要求的三维培养体系和标准化细胞库，为未来临床应用与产业化奠定基础。
