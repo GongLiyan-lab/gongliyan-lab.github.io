@@ -6,8 +6,6 @@ nav_order: 2
 permalink: /research/
 ---
 
-# Research
-
 Our lab focuses on **stem cell and organoid development and application**.
 We use human iPSC‑derived organoid models to recapitulate human tissue development, disease mechanism and drug evaluation.
 
