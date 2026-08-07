@@ -1,4 +1,3 @@
-# projects.md
 ---
 title: Research
 nav: true
