@@ -1,5 +1,7 @@
+# people.md
 ---
 title: People
+nav: true
 nav_order: 3
 permalink: /people/
 ---
