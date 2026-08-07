@@ -6,8 +6,6 @@ nav_order: 7
 permalink: /contact/
 ---
 
-# Contact
-
 **Principal Investigator：Liyan Gong (公丽岩)**
 
 **Email：** liyan.gong@ihm.ac.cn
