@@ -1,9 +1,10 @@
+# join.md
 ---
-title: Join
+title: Join Us
+nav: true
 nav_order: 6
 permalink: /join/
 ---
-
 # Join Our Lab
 
 We are looking for highly motivated researchers to join our lab focusing on stem‑cell‑derived organoid, vascular biology and tumor microenvironment.
