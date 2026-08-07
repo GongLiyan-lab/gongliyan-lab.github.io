@@ -1,5 +1,7 @@
+# news.md
 ---
 title: News
+nav: true
 nav_order: 5
 permalink: /news/
 ---
