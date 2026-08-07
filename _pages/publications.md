@@ -1,5 +1,7 @@
+# publications.md
 ---
 title: Publications
+nav: true
 nav_order: 4
 permalink: /publications/
 ---
