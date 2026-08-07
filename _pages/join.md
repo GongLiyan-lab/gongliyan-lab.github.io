@@ -1,4 +1,3 @@
-# join.md
 ---
 title: Join Us
 nav: true
