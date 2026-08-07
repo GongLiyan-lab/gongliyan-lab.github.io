@@ -1,4 +1,3 @@
-# news.md
 ---
 title: News
 nav: true
