@@ -7,7 +7,7 @@ nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: liyan_gong.jpg
   image_circular: true
   more_info: >
     <p>大健康研究院 研究员</p>
