@@ -50,14 +50,3 @@ latest_posts:
 
 6. Zhao, G. \*, **Gong, L.** \*, Su, D.\*, Jin, Y., Guo, C., Yue, M., Yao, S., Qin, Z., Ye, Y., Tang, Y., Wu, Q., Zhang, J., Cui, B., Ding, Q., Huang, H., Hu, L., Chen, Y., Zhang, P., Hu, G., Chen, L., Wong, K.K., Gao, D. #, and Ji, H#. (2019). Cullin5 deficiency promotes small‑cell lung cancer metastasis by stabilizing integrin beta1. *J Clin Invest* 129, 972‑987.
 
-7. Li, X. \*, Kim, H. D. \*, Luo, A. C., **Gong, L.**, Lee, C., Hong, X., Sudduth, C. L., Ad, M., An, Young., Park, M., Kim, D., Greene, A.K., Padwa, B.L., Hwang, N.S., Lin, R., Melero‑Martin, J. M#. Human bone‑derived endothelial cells mediate bone regeneration via distinct expression of KIT ligand. *Advanced Science*, 2025, e14194. 
-
-8. Chen, D., Fan, X., Sun, N., Wang, K., **Gong, L.**, Melero‑Martin, J. M., & Pu, W. T#. Pioneer factor ETV2 safeguards endothelial cell specification by recruiting the repressor REST to restrict alternative lineage commitment. *Nature Cardiovascular Research*. 2025 Jun;4(6):689‑709.
-
-9. Lee, U. \*, Zhang, Y. \*, Zhu, Y., Luo, A. C., **Gong, L.**, Tremmel, D. M., Kim, Y., Villarreal, V. S., Wang, X., Lin, R.‑Z., Cui, M., Ma, M., Yuan, K., Wang, K. #, Chen, K. #, & Melero‑Martin, J. M#. (2024). Robust differentiation of human pluripotent stem cells into mural progenitor cells via transient activation of NKX3.1. *Nature Communications*, 15, 8392.
-
-10. Luo, A. C., Wang, J., Wang, K., Zhu, Y., **Gong, L.**, Lee, U., ... & Melero‑Martin, J. M#. (2024). A streamlined method to generate endothelial cells from human pluripotent stem cells via transient doxycycline‑inducible ETV2 activation. *Angiogenesis*, 1‑17.
-
-11. Hu, H. \*, Zhu, W. \*, Qin, J., Chen, M., **Gong, L.**, Li, L., Liu, X., Tao, Y., Yin, H., Zhou, H., Zhou, L., Ye, D., Ye, Q., and Gao, D#. (2017). Acetylation of PGK1 promotes liver cancer cell proliferation and tumorigenesis. *Hepatology (Baltimore, Md)* 65, 515‑528.
-
-12. Liu, X., Chen, M., Li, L., **Gong, L.**, Zhou, H., and Gao, D#. (2017). Extracellular Signal‑regulated Kinases (ERKs) Phosphorylate Lin28a Protein to Modulate P19 Cell Proliferation and Differentiation. *The Journal of Biological Chemistry* 292, 3970‑3976.
