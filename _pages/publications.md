@@ -1,4 +1,3 @@
-# publications.md
 ---
 title: Publications
 nav: true
