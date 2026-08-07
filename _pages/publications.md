@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Publications
 nav: true
 nav_order: 4
