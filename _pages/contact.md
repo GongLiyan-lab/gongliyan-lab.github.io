@@ -1,4 +1,3 @@
-# contact.md
 ---
 title: Contact
 nav: true
