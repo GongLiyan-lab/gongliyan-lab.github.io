@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: Lab Members
 nav: true
 nav_order: 3
 permalink: /people/
