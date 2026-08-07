@@ -1,4 +1,3 @@
-# people.md
 ---
 title: People
 nav: true
