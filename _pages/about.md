@@ -10,16 +10,16 @@ profile:
   image: liyan_gong.jpg
   image_circular: true
   more_info: >
-<p><strong>Liyan Gong</strong>（公丽岩）</p>
+    <p><strong>Liyan Gong</strong>（公丽岩）</p>
 
-<p>Principal Investigator</p>
+    <p>Principal Investigator</p>
 
-<p>Institute of Health and Medicine</p>
+    <p>Institute of Health and Medicine</p>
 
-<p>Hefei Comprehensive National Science Center</p>
+    <p>Hefei National Science Center</p>
 
-<p><strong>E-mail:</strong><br>
-liyan.gong@ihm.ac.cn</p>
+    <p><strong>✉</strong><br>
+    liyan.gong@ihm.ac.cn</p>
 
 selected_papers: true
 social: true
