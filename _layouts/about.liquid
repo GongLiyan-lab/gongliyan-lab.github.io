@@ -66,7 +66,7 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-   <!-- Selected papers -->
+  <!-- Selected papers -->
 {% if page.selected_papers %}
   <h2>
     <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
@@ -77,16 +77,19 @@ layout: default
   </div>
 
   <style>
-    .home-selected-publications ol,
-    .home-selected-publications ul,
-    .home-selected-publications .bibliography {
-      margin-left: 0 !important;
-      padding-left: 0 !important;
+    .home-selected-publications .abbr {
+      display: none !important;
     }
 
-    .home-selected-publications li {
-      margin-left: 0 !important;
+    .home-selected-publications .row > .col-sm-10 {
+      flex: 0 0 100% !important;
+      max-width: 100% !important;
+      width: 100% !important;
+    }
+
+    .home-selected-publications .bibliography {
       padding-left: 0 !important;
+      margin-left: 0 !important;
     }
   </style>
 {% endif %}
