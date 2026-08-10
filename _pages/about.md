@@ -10,6 +10,7 @@ profile:
   image: liyan_gong.jpg
   image_circular: true
   more_info: >
+    <p>Liyan Gong 公丽岩</p>
     <p>大健康研究院 研究员</p>
     <p>E-mail: liyan.gong@ihm.ac.cn</p>
 
