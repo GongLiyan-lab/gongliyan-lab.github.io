@@ -28,7 +28,7 @@ announcements:
 
 ## Introduction
 
-Liyan Gong received her B.S. degree in Biotechnology from **Jilin University** in 2014 and her Ph.D. degree in Biochemistry and Molecular Biology from the **Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences**, in 2020. She completed postdoctoral training at **Tongji University School of Medicine** from 2020 to 2021 and at **Harvard Medical School / Boston Children’s Hospital** from 2022 to 2025. In November 2025, sIn November 2025, she established the Stem Cell and Organoid Research Laboratory at the Institute of Health and Medicine, Hefei Comprehensive National Science Center, where she currently serves as Principal Investigator.
+Liyan Gong received her B.S. degree in Biotechnology from **Jilin University** in 2014 and her Ph.D. degree in Biochemistry and Molecular Biology from the **Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences**, in 2020. She completed postdoctoral training at **Tongji University School of Medicine** from 2020 to 2021 and at **Harvard Medical School / Boston Children’s Hospital** from 2022 to 2025. In November 2025, she established the Stem Cell and Organoid Research Laboratory at the Institute of Health and Medicine, Hefei Comprehensive National Science Center, where she currently serves as Principal Investigator.
 
 Her research focuses on the development and application of **stem cell and organoid technologies**. As first or co-first author, she has published research articles in journals including *Cell Stem Cell*, *Cell Discovery*, *Journal of Clinical Investigation*, and *Frontiers in Cell and Developmental Biology*.
 
