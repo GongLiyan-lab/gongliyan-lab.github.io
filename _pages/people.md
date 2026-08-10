@@ -99,7 +99,7 @@ permalink: /people/
 
     <div class="lab-member">
       <img src="/assets/img/qiaolan_lv.jpg" alt="Qiaolan Lv">
-      <div class="lab-name">Qiaolan Lv (吕巧岚)</div>
+      <div class="lab-name">Qiaolan Lv (吕樵岚)</div>
       <div class="lab-role">Research Assistant</div>
     </div>
 
