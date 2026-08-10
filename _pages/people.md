@@ -130,6 +130,7 @@ permalink: /people/
   <div class="lab-grid">
 
     <div class="lab-member">
+      <img src="/assets/img/chongtian_wang.jpg" alt="Chongtian Wang">
       <div class="lab-name">Chongtian Wang (王重天)</div>
       <div class="lab-role">Master Student · 2026 Entry</div>
     </div>
