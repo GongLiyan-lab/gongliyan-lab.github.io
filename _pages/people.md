@@ -19,6 +19,7 @@ Principal Investigator
 **Qiaolan Lü (吕樵岚)**
 **Chonggui Jiang (江崇贵)**
 **Pan Cui (崔盼)**
+**Shaoyu Liu (刘邵宇)**
 
 ## Master Students
 **Chongtian Wang (王重天)** (2026‑entry)
