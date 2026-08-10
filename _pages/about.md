@@ -14,12 +14,7 @@ profile:
 
     <p>Principal Investigator</p>
 
-    <p>Institute of Health and Medicine</p>
-
-    <p>Hefei National Science Center</p>
-
-    <p><strong>✉</strong><br>
-    liyan.gong@ihm.ac.cn</p>
+    <p>✉ liyan.gong@ihm.ac.cn</p>
 
 selected_papers: true
 social: true
