@@ -22,10 +22,6 @@ announcements:
   scrollable: true
   limit: 6
 
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
 ---
 
 ## 个人简介
