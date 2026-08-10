@@ -10,9 +10,17 @@ profile:
   image: liyan_gong.jpg
   image_circular: true
   more_info: >
-    <p>Liyan Gong 公丽岩</p>
-    <p>大健康研究院 研究员</p>
-    <p>E-mail: liyan.gong@ihm.ac.cn</p>
+<p><strong>Liyan Gong</strong>（公丽岩）</p>
+
+<p>Principal Investigator</p>
+
+<p>Stem Cell and Organoid Research Laboratory</p>
+
+<p>Institute of Health and Medicine</p>
+
+<p>Hefei Comprehensive National Science Center</p>
+
+<p>E-mail: liyan.gong@ihm.ac.cn</p>
 
 selected_papers: true
 social: true
@@ -24,12 +32,15 @@ announcements:
 
 ---
 
-## 个人简介
+## About
 
-公丽岩，2014年毕业于吉林大学，获学士学位；2020年毕业于中国科学院分子细胞科学卓越创新中心（原生化与细胞所），获博士学位。2020年10月至2021年12月于同济大学医学院进行博士后训练，并于2022年1月至2025年9月于美国哈佛医学院/波士顿儿童医院（Harvard Medical School/ Boston Children’s Hospital）从事博士后研究。2025年11月回国加入合肥综合性国家科学中心大健康研究院担任研究员。主要研究方向聚焦于干细胞与类器官技术的开发和应用。以第一作者身份（含共同）在 *Cell Stem Cell*、*Cell Discovery*、*Journal of Clinical Investigation*、*Frontiers in Cell and Developmental Biology* 等期刊上发表多篇SCI研究论文。
+Liyan Gong received her B.S. degree in Biotechnology from **Jilin University** in 2014 and her Ph.D. degree in Biochemistry and Molecular Biology from the **Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences**, in 2020. She completed postdoctoral training at **Tongji University School of Medicine** from 2020 to 2021 and at **Harvard Medical School / Boston Children’s Hospital** from 2022 to 2025. In November 2025, sIn November 2025, she established the Stem Cell and Organoid Research Laboratory at the Institute of Health and Medicine, Hefei Comprehensive National Science Center, where she currently serves as Principal Investigator.
 
-## 研究兴趣及方向
+Her research focuses on the development and application of **stem cell and organoid technologies**. As first or co-first author, she has published research articles in journals including *Cell Stem Cell*, *Cell Discovery*, *Journal of Clinical Investigation*, and *Frontiers in Cell and Developmental Biology*.
 
-我们致力于利用干细胞与类器官技术构建高保真的人类疾病模型。以自建的快速血管类器官体系为核心，研究血管发育调控、肿瘤微环境中的血管异常及肿瘤‑血管互作机制，并发展肿瘤类器官和免疫细胞等多类型模型与血管系统的耦合体系，以模拟更复杂的病理过程。结合基因编辑、空间转录组和多尺度成像等手段，系统解析疾病相关的关键调控网络。在此基础上，研究组探索类器官模型在抗肿瘤药物评价、靶点验证、免疫治疗响应预测及血管异常疾病模拟等方面的应用潜力，构建兼具机制深度与转化价值的类器官平台。同时推动建立符合GMP要求的三维培养体系和标准化细胞库，为未来临床应用与产业化奠定基础。
+## Research Interests
 
+Our laboratory develops **human stem cell-derived and organoid-based models** to investigate human development and disease with high physiological relevance. Leveraging our rapid **vascular organoid platform**, we study **vascular development**, **vascular abnormalities in the tumor microenvironment**, and **tumor–vascular interactions**. We further integrate vascular organoids with **tumor organoids**, **immune cells**, and other tissue-specific systems to reconstruct complex multicellular disease models.
+
+By combining **genome engineering**, **spatial transcriptomics**, **advanced imaging**, and **multi-omics approaches**, we aim to uncover key regulatory mechanisms underlying human diseases. Ultimately, we seek to establish versatile organoid platforms for **drug discovery**, **target validation**, **immunotherapy response prediction**, and **modeling vascular disorders**, while developing standardized **three-dimensional culture systems** and **cell resources** to facilitate future translational and clinical applications.
 
