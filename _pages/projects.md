@@ -20,7 +20,6 @@ Assembly of coupled multi‑organoid complexes, integrating vascular systems wit
 
 ## 4. Technology Translation
 Establish organoid‑based drug screening platform for anti‑tumor drug assessment, target validation and immunotherapy response prediction; explore applications for vascular‑related disease modeling. We also pursue GMP‑compliant 3D culture systems and standardized cell repositories to support future clinical translation and industrial‑oriented development.
-
 <!-- Vascular Organoid Image Gallery -->
 <div class="research-gallery">
 
