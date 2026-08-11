@@ -18,27 +18,6 @@ layout: default
 
   <article>
 
-    <!-- Gong Lab Logo -->
-    <div class="gong-lab-logo">
-      <img
-        src="{{ '/assets/img/gong-lab-logo.png' | relative_url }}"
-        alt="Gong Lab Logo"
-      >
-    </div>
-
-    <style>
-      .gong-lab-logo {
-        text-align: center;
-        margin: 0 0 1.2rem 0;
-      }
-
-      .gong-lab-logo img {
-        width: 180px;
-        max-width: 100%;
-        height: auto;
-      }
-    </style>
-
     <!-- Profile -->
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
