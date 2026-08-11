@@ -20,3 +20,74 @@ Assembly of coupled multi‑organoid complexes, integrating vascular systems wit
 
 ## 4. Technology Translation
 Establish organoid‑based drug screening platform for anti‑tumor drug assessment, target validation and immunotherapy response prediction; explore applications for vascular‑related disease modeling. We also pursue GMP‑compliant 3D culture systems and standardized cell repositories to support future clinical translation and industrial‑oriented development.
+
+<!-- Research Image Gallery -->
+<div class="research-gallery">
+
+  <div class="research-image">
+    <img src="{{ '/assets/img/VO1.png' | relative_url }}" alt="Vascular Organoid">
+  </div>
+
+  <div class="research-image">
+    <img src="{{ '/assets/img/VO2.png' | relative_url }}" alt="Vascular Organoid">
+  </div>
+
+  <div class="research-image">
+    <img src="{{ '/assets/img/VO3.png' | relative_url }}" alt="Vascular Organoid">
+  </div>
+
+</div>
+
+<style>
+  .research-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    align-items: center;
+  }
+
+  .research-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .research-image img {
+    width: 100%;
+    height: 230px;
+    object-fit: contain;
+    border-radius: 12px;
+    display: block;
+    transition: transform 0.25s ease;
+  }
+
+  .research-image img:hover {
+    transform: scale(1.03);
+  }
+
+  /* Tablet */
+  @media (max-width: 768px) {
+    .research-gallery {
+      gap: 14px;
+    }
+
+    .research-image img {
+      height: 180px;
+    }
+  }
+
+  /* Mobile */
+  @media (max-width: 520px) {
+    .research-gallery {
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+
+    .research-image img {
+      height: auto;
+      max-height: 260px;
+    }
+  }
+</style>
