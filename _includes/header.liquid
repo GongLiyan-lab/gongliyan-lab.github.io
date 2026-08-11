@@ -9,28 +9,60 @@
       </a>
 
       <!-- Gong Lab Logo Style -->
-      <style>
-        .gong-lab-navbar-logo {
-          display: flex;
-          align-items: center;
-          padding: 0;
-          margin-right: 24px;
-          flex-shrink: 0;
-        }
+    <style>
+  /* Gong Lab navbar logo */
+  #navbar .container {
+    min-height: 88px;
+    display: flex;
+    align-items: center;
+  }
 
-        .gong-lab-navbar-logo img {
-          height: 54px;
-          width: auto;
-          max-width: none;
-          object-fit: contain;
-        }
+  .gong-lab-navbar-logo {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+    flex-shrink: 0;
+  }
 
-        @media (max-width: 768px) {
-          .gong-lab-navbar-logo img {
-            height: 44px;
-          }
-        }
-      </style>
+  .gong-lab-navbar-logo img {
+    height: 72px;
+    width: auto;
+    object-fit: contain;
+    display: block;
+  }
+
+  /* Navigation text */
+  #navbar .nav-link {
+    font-size: 17px;
+  }
+
+  #navbar .navbar-collapse {
+    align-items: center;
+  }
+
+  #navbar .navbar-nav {
+    align-items: center;
+  }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    #navbar .container {
+      min-height: 70px;
+    }
+
+    .gong-lab-navbar-logo {
+      margin-right: 15px;
+    }
+
+    .gong-lab-navbar-logo img {
+      height: 52px;
+    }
+
+    #navbar .nav-link {
+      font-size: 16px;
+    }
+  }
+</style>
 
       <!-- Navbar Toggle -->
       <button
