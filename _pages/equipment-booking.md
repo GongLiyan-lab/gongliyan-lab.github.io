@@ -88,7 +88,7 @@ nav_order: 8
 </style>
 
 <div class="equipment-intro">
-Please check the current schedule before using shared laboratory equipment and make a reservation in advance.
+  Please check the current schedule before using shared laboratory equipment and make a reservation in advance.
 </div>
 
 <div class="equipment-grid">
@@ -104,7 +104,9 @@ Please check the current schedule before using shared laboratory equipment and m
 
     <a
       class="equipment-button"
-      href="#"
+      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnLMrYwkeL9z60vlOvNBOcVc"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Book Now
     </a>
@@ -121,7 +123,9 @@ Please check the current schedule before using shared laboratory equipment and m
 
     <a
       class="equipment-button"
-      href="#"
+      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnEQbW9t2LzGbEbHhq3kznFP"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Book Now
     </a>
@@ -138,7 +142,9 @@ Please check the current schedule before using shared laboratory equipment and m
 
     <a
       class="equipment-button"
-      href="#"
+      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnEbhjCbq20qQJzjy017RIk3"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Book Now
     </a>
@@ -155,7 +161,9 @@ Please check the current schedule before using shared laboratory equipment and m
 
     <a
       class="equipment-button"
-      href="#"
+      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnB9YgaKB7AT1BNpupV0Hd1e"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Book Now
     </a>
@@ -164,6 +172,6 @@ Please check the current schedule before using shared laboratory equipment and m
 </div>
 
 <div class="booking-note">
-<strong>Booking policy:</strong>
-Please reserve equipment before use, avoid overlapping reservations, and cancel your booking promptly if the instrument is no longer needed.
+  <strong>Booking policy:</strong>
+  Please reserve equipment before use, avoid overlapping reservations, and cancel your booking promptly if the instrument is no longer needed.
 </div>
