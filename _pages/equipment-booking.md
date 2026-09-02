@@ -104,7 +104,7 @@ nav_order: 8
 
     <a
       class="equipment-button"
-      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnLMrYwkeL9z60vlOvNBOcVc"
+      href="https://icnybwhmonn1.feishu.cn/base/PkjKbEKnCa2Iukslmgvc63alnzd?table=tbl77MbikWq325My&view=vewmxdyqMp"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -123,7 +123,7 @@ nav_order: 8
 
     <a
       class="equipment-button"
-      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnEQbW9t2LzGbEbHhq3kznFP"
+      href="https://icnybwhmonn1.feishu.cn/base/PkjKbEKnCa2Iukslmgvc63alnzd?table=tbl77MbikWq325My&view=vewjckeQVi"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -142,7 +142,7 @@ nav_order: 8
 
     <a
       class="equipment-button"
-      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnEbhjCbq20qQJzjy017RIk3"
+      href="https://icnybwhmonn1.feishu.cn/base/PkjKbEKnCa2Iukslmgvc63alnzd?table=tbl77MbikWq325My&view=vewjdXz6L4"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -161,7 +161,7 @@ nav_order: 8
 
     <a
       class="equipment-button"
-      href="https://icnybwhmonn1.feishu.cn/share/base/view/shrcnB9YgaKB7AT1BNpupV0Hd1e"
+      href="https://icnybwhmonn1.feishu.cn/base/PkjKbEKnCa2Iukslmgvc63alnzd?table=tbl77MbikWq325My&view=vewSVXcFYh"
       target="_blank"
       rel="noopener noreferrer"
     >
