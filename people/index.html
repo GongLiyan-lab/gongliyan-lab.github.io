@@ -62,6 +62,36 @@
     }
   }
 </style> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">Home </a> </li> <li class="nav-item "> <a class="nav-link" href="/research/">Research </a> </li> <li class="nav-item active"> <a class="nav-link" href="/people/">Lab Members <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/news/">News </a> </li> <li class="nav-item "> <a class="nav-link" href="/join/">Join Our Lab </a> </li> <li class="nav-item "> <a class="nav-link" href="/contact/">Contact </a> </li> <li class="nav-item "> <a class="nav-link" href="/equipment-booking/">Equipment Booking </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Lab Members</h1> <p class="post-description"></p> </header> <article> <style>
+
+/* ===== Lab Group Photo ===== */
+
+.lab-group-photo {
+  margin-top: 1.2rem;
+  margin-bottom: 3.2rem;
+  text-align: center;
+}
+
+.lab-group-photo img {
+  width: 100%;
+  max-width: 1100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+}
+
+.lab-group-caption {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+
+/* ===== Lab Members ===== */
+
 .lab-section {
   margin-top: 2.2rem;
   margin-bottom: 2.8rem;
@@ -102,7 +132,24 @@
   opacity: 0.75;
 }
 
+
+/* ===== Mobile ===== */
+
 @media (max-width: 700px) {
+
+  .lab-group-photo {
+    margin-top: 0.8rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .lab-group-photo img {
+    border-radius: 9px;
+  }
+
+  .lab-group-caption {
+    font-size: 0.82rem;
+  }
+
   .lab-grid {
     gap: 24px;
   }
@@ -116,7 +163,8 @@
     height: 193px;
   }
 }
-</style> <h2 id="principal-investigator">Principal Investigator</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/liyan_gong.jpg" alt="Liyan Gong"> <div class="lab-name">Liyan Gong (公丽岩)</div> <div class="lab-role">Principal Investigator</div> </div> </div> </div> <h2 id="postdoctoral-research-fellow">Postdoctoral Research Fellow</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/guangrui_chen.jpg" alt="Guangrui Chen"> <div class="lab-name">Guangrui Chen (陈广瑞)</div> <div class="lab-role">Postdoctoral Research Fellow</div> </div> </div> </div> <h2 id="research-assistants">Research Assistants</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/qiaolan_lv.jpg" alt="Qiaolan Lv"> <div class="lab-name">Qiaolan Lv (吕樵岚)</div> <div class="lab-role">Research Assistant</div> </div> <div class="lab-member"> <img src="/assets/img/chonggui_jiang.jpg" alt="Chonggui Jiang"> <div class="lab-name">Chonggui Jiang (江崇贵)</div> <div class="lab-role">Research Assistant</div> </div> <div class="lab-member"> <img src="/assets/img/pan_cui.jpg" alt="Pan Cui"> <div class="lab-name">Pan Cui (崔盼)</div> <div class="lab-role">Research Assistant</div> </div> <div class="lab-member"> <img src="/assets/img/shaoyu_liu.jpg" alt="Shaoyu Liu"> <div class="lab-name">Shaoyu Liu (刘邵宇)</div> <div class="lab-role">Research Assistant</div> </div> </div> </div> <h2 id="master-students">Master Students</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/chongtian_wang.jpg" alt="Chongtian Wang"> <div class="lab-name">Chongtian Wang (王重天)</div> <div class="lab-role">Master Student · 2026 Entry</div> </div> </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 公 (Gong) 丽岩 (Liyan). Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
+
+</style> <div class="lab-group-photo"> <img src="/assets/img/gong-lab-group-photo.jpg" alt="Gong Lab group photo"> <div class="lab-group-caption"> Gong Lab, Institute of Health and Medicine, Hefei, 2026 </div> </div> <h2 id="principal-investigator">Principal Investigator</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/liyan_gong.jpg" alt="Liyan Gong"> <div class="lab-name">Liyan Gong (公丽岩)</div> <div class="lab-role">Principal Investigator</div> </div> </div> </div> <h2 id="postdoctoral-research-fellow">Postdoctoral Research Fellow</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/guangrui_chen.jpg" alt="Guangrui Chen"> <div class="lab-name">Guangrui Chen (陈广瑞)</div> <div class="lab-role">Postdoctoral Research Fellow</div> </div> </div> </div> <h2 id="research-assistants">Research Assistants</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/qiaolan_lv.jpg" alt="Qiaolan Lv"> <div class="lab-name">Qiaolan Lv (吕樵岚)</div> <div class="lab-role">Research Assistant</div> </div> <div class="lab-member"> <img src="/assets/img/chonggui_jiang.jpg" alt="Chonggui Jiang"> <div class="lab-name">Chonggui Jiang (江崇贵)</div> <div class="lab-role">Research Assistant</div> </div> <div class="lab-member"> <img src="/assets/img/pan_cui.jpg" alt="Pan Cui"> <div class="lab-name">Pan Cui (崔盼)</div> <div class="lab-role">Research Assistant</div> </div> <div class="lab-member"> <img src="/assets/img/shaoyu_liu.jpg" alt="Shaoyu Liu"> <div class="lab-name">Shaoyu Liu (刘邵宇)</div> <div class="lab-role">Research Assistant</div> </div> </div> </div> <h2 id="master-students">Master Students</h2> <div class="lab-section"> <div class="lab-grid"> <div class="lab-member"> <img src="/assets/img/chongtian_wang.jpg" alt="Chongtian Wang"> <div class="lab-name">Chongtian Wang (王重天)</div> <div class="lab-role">Master Student · 2026 Entry</div> </div> </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 公 (Gong) 丽岩 (Liyan). Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
