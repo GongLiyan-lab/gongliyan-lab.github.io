@@ -118,7 +118,7 @@ permalink: /people/
 
 <div class="lab-group-photo">
   <img
-    src="/assets/img/gong-lab-group-photo.jpg"
+    src="/assets/img/gong-lab-group-photo1.jpg"
     alt="Gong Lab group photo"
   >
   <div class="lab-group-caption">
