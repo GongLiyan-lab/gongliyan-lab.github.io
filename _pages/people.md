@@ -6,8 +6,37 @@ nav_order: 3
 permalink: /people/
 ---
 
-
 <style>
+
+/* ===== Lab Group Photo ===== */
+
+.lab-group-photo {
+  margin-top: 1.2rem;
+  margin-bottom: 3.2rem;
+  text-align: center;
+}
+
+.lab-group-photo img {
+  width: 100%;
+  max-width: 1100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+}
+
+.lab-group-caption {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+
+/* ===== Lab Members ===== */
+
 .lab-section {
   margin-top: 2.2rem;
   margin-bottom: 2.8rem;
@@ -48,7 +77,24 @@ permalink: /people/
   opacity: 0.75;
 }
 
+
+/* ===== Mobile ===== */
+
 @media (max-width: 700px) {
+
+  .lab-group-photo {
+    margin-top: 0.8rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .lab-group-photo img {
+    border-radius: 9px;
+  }
+
+  .lab-group-caption {
+    font-size: 0.82rem;
+  }
+
   .lab-grid {
     gap: 24px;
   }
@@ -62,7 +108,28 @@ permalink: /people/
     height: 193px;
   }
 }
+
 </style>
+
+
+<!-- =========================
+     GONG LAB GROUP PHOTO
+     ========================= -->
+
+<div class="lab-group-photo">
+  <img
+    src="/assets/img/gong-lab-group-photo.jpg"
+    alt="Gong Lab group photo"
+  >
+  <div class="lab-group-caption">
+    Gong Lab, Institute of Health and Medicine, Hefei, 2026
+  </div>
+</div>
+
+
+<!-- =========================
+     PRINCIPAL INVESTIGATOR
+     ========================= -->
 
 ## Principal Investigator
 
@@ -78,6 +145,11 @@ permalink: /people/
   </div>
 </div>
 
+
+<!-- =========================
+     POSTDOCTORAL RESEARCH FELLOW
+     ========================= -->
+
 ## Postdoctoral Research Fellow
 
 <div class="lab-section">
@@ -91,6 +163,11 @@ permalink: /people/
 
   </div>
 </div>
+
+
+<!-- =========================
+     RESEARCH ASSISTANTS
+     ========================= -->
 
 ## Research Assistants
 
@@ -123,6 +200,11 @@ permalink: /people/
 
   </div>
 </div>
+
+
+<!-- =========================
+     MASTER STUDENTS
+     ========================= -->
 
 ## Master Students
 
